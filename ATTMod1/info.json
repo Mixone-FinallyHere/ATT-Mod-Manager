@@ -1,0 +1,10 @@
+{
+  "Id": "ATTMod1",
+  "DisplayName": "First Mod for ATT",
+  "Author": "Mixone",
+  "Version": "1.0.0",
+  "ManagerVersion": "1.0.0",
+  "GameVersion": "1.0.0",
+  "AssemblyName": "ATTMod1.dll",
+  "EntryMethod": "ATTMod1.Main.Load"
+}
